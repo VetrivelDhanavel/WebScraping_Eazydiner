@@ -11,7 +11,7 @@ git clone https://github.com/VetrivelDhanavel/WebScraping_Eazydiner.git
 Make sure you have Python installed on your system.
 Python => https://www.python.org/downloads/
 
-### Open Your terminal or cmd =>
+# Open Your terminal or cmd =>
  # Install the required packages =
 pip install requests beautifulsoup4
 or 
